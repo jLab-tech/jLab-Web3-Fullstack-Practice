@@ -6,7 +6,8 @@
 + There is also a famous rule: Feynman Technique, it told us learning, thinking and outputting.
 
 ## How to start?
-+ I will give a serious of lessons.
++ I will give a serie
++ s of lessons.
 ### 1> How to become a Full Stack Engineer?
 + There is only one way: invest your hours into the learning and thinking, then outputting a product.
 + So I will spent about 3 month to these lessons.
